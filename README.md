@@ -1,4 +1,4 @@
-# Gun Violence Archive
+# Gun Violence Data Hub
 An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolencearchive.org/) (GVA) mass shooting incidents (2014–present). Updated daily.
 
 ## Statistics
