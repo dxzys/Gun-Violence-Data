@@ -36,3 +36,12 @@ jobs:
           git commit -m "Automated data update - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           git push
         fi
+
+    - name: Update README with latest statistics
+      run: |
+        python .github/scripts/upd_readme.py
+        git add README.md
+        if ! git diff --staged --quiet; then
+          git commit -m "Update README with latest statistics - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        fi
