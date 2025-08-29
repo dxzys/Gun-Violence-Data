@@ -49,5 +49,5 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Automated data update - $(date '+%Y-%m-%d %H:%M:%S UTC')"
-          git push origin HEAD:${{ github.ref_name }}
+          git push origin HEAD:main
         fi
