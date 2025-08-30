@@ -5,7 +5,7 @@ CSV_PATH = 'data/gva_master.csv'
 README_PATH = 'README.md'
 
 README_TEMPLATE = '''# Gun Violence Data Hub
-An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolencearchive.org/) (GVA) mass shooting incidents (2014–present). Updated daily.
+An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolencearchive.org/) (GVA) mass shooting incidents (2013–present). Updated daily.
 
 ## Statistics
 >*Last updated: {last_updated}*
