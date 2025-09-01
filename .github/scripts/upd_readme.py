@@ -7,6 +7,8 @@ README_PATH = 'README.md'
 README_TEMPLATE = '''# Gun Violence Data Hub
 An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolencearchive.org/) (GVA) mass shooting incidents (2013–present). Updated daily.
 
+#### [View map](https://dxzys.github.io/Gun-Violence-Data-Hub/map.html)
+
 ## Statistics
 >*Last updated: {last_updated}*
 - **Total Incidents**: {total_incidents}
