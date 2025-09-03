@@ -4,7 +4,7 @@ from datetime import datetime
 CSV_PATH = 'data/gva_master.csv'
 README_PATH = 'README.md'
 
-README_TEMPLATE = '''# Gun Violence Data Hub
+README_TEMPLATE = '''# Gun Violence Data
 An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolencearchive.org/) (GVA) mass shooting incidents (2013–present). Updated daily.
 
 #### [View map](https://dxzys.github.io/Gun-Violence-Data-Hub/map.html)
