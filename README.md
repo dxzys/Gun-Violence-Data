@@ -4,8 +4,8 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data-Hub/map.html)
 
 ## Statistics
->*Last updated: September 02, 2025*
-- **Total Incidents**: 5735
-- **Incidents in 2025**: 292
-- **Most recent incident**: September 1, 2025 in Chicago, Illinois
-  - Casualties: 0 killed, 5 injured
+>*Last updated: September 03, 2025*
+- **Total Incidents**: 5736
+- **Incidents in 2025**: 293
+- **Most recent incident**: September 1, 2025 in Bronx, New York
+  - Casualties: 1 killed, 4 injured
