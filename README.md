@@ -1,10 +1,10 @@
-# Gun Violence Data Hub
+# Gun Violence Data
 An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolencearchive.org/) (GVA) mass shooting incidents (2013–present). Updated daily.
 
-#### [View map](https://dxzys.github.io/Gun-Violence-Data-Hub/map.html)
+#### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: September 03, 2025*
+>*Last updated: September 04, 2025*
 - **Total Incidents**: 5736
 - **Incidents in 2025**: 293
 - **Most recent incident**: September 1, 2025 in Bronx, New York
