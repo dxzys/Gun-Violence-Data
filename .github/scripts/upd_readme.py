@@ -15,6 +15,11 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 - **Incidents in {current_year}**: {incidents_this_year}
 - **Most recent incident**: {most_recent_date} in {most_recent_location}
   - Casualties: {most_recent_deaths} killed, {most_recent_injuries} injured
+
+# Framework
+The Gun Violence Archive (GVA) offers public [reports](https://www.gunviolencearchive.org/reports) of gun violence incidents in the U.S. (most notably mass shootings) that are downloadable in `.csv` format. Mass shootings (defined by GVA as incidents where 4+ people are shot, excluding the perpetrator) unfortunately happen far too often in the United States and are reported both in general *(Mass Shootings - All Years)* and by year *(Mass Shootings in 20xx)* as a result.
+
+Because GVA's data is extensive and continuously updated, downloading all mass shooting incidents in a single file isn't easy. The site's data is limited to the most recent 80 pages, which for the "All Years" mass shooting incidents, so the CSV only includes incidents up to the last page on its corresponding on-site report. Older entries can only be obtained by download each yearly report separately and combining them manually. This project cuts that work by maintaining an up-to-date "master" dataset of every catalogued mass shooting incident.
 '''
 
 def parse_csv(csv_path):
