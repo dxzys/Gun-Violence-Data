@@ -23,14 +23,24 @@ Because GVA's data is extensive and continuously updated, downloading all mass s
 
 This project cuts that work by maintaining an up-to-date "master" dataset of every mass shooting incident catalogued by GVA. It does this by checking for new incidents in the latest yearly report daily and automatically adding any data to the master dataset in this repository.
 
+## Architecture
 The project is entirely Python-based and relies on two scripts: 
 - `gva.py` initiates the process and handles the data after the latest CSV is downloaded. After processing, new incidents are added to the master dataset (`master_gva.csv`).
 - `export_gva.py` is called by gva.py. It automates the CSV downloading process using Selenium WebDriver. It dynamically constructs the correct URL for the current year's report (datetime) so that it automatically works for future years without needing manual updates.
 
-Since no public API is available for GVA's reports, data is accessed in bulk by downloading CSV files directly from their website (hence why we need webdriver). This process is made more tedious as GVA generates dynamic export links with unique query identifiers, so we can't simply reuse a static download URL for a faster and more repetitive approach to downloading the data. Instead, we have to navigate the site and click the "Export CSV" button for each download. The exporter script locates this dynamic link by searching for "export-csv", located here (example below):
+A GitHub Actions workflow runs the process daily to keep the master CSV in this repository current.
+
+## Data collection and processing
+Since no public API is available for GVA's reports, data is collected by downloading CSV files directly from their website. This process is made more tedious as GVA generates dynamic export links with unique query identifiers, so we can't simply reuse a static download URL for a faster and more repetitive approach to downloading the data. Instead, we have to navigate the site and click the "Export CSV" button for each download (hence why webdriver is used).
+
+The exporter script locates this dynamic link by searching for anchor elements containing "export-csv" in their href attribute:
 ```html
 <a href="/query/0484b316-f676-44bc-97ed-ecefeabae077/export-csv?year=2025" class="button">Export as CSV</a>
 ```
+
+After download, the up-to-date data for the current year is compared against the existing master dataset. Incidents are identified by GVA with a unique **Incident ID**, which are read from both files using Python's `csv.DictReader`. Any incidents found in the new data that are missing from the master CSV are considered new and thus added.
+
+Geographical coordinates are added to each incident. GVA's data only includes address information (street addresses, city/county, and state), so each new incident is geocoded using the **ArcGIS** geocoder from the `geopy` library to add approximate latitude and longitude values based on the provided address information.
 '''
 
 def parse_csv(csv_path):
