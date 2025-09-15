@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: September 14, 2025*
+>*Last updated: September 15, 2025*
 - **Total Incidents**: 5746
 - **Incidents in 2025**: 303
 - **Most recent incident**: September 12, 2025 in Chicago, Illinois
