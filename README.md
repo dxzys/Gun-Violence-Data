@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: September 22, 2025*
+>*Last updated: September 23, 2025*
 - **Total Incidents**: 5756
 - **Incidents in 2025**: 313
 - **Most recent incident**: September 21, 2025 in Indianapolis, Indiana
