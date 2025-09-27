@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: September 26, 2025*
+>*Last updated: September 27, 2025*
 - **Total Incidents**: 5762
 - **Incidents in 2025**: 319
 - **Most recent incident**: August 3, 2025 in Fresno, California
