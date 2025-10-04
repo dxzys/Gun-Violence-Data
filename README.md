@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 03, 2025*
+>*Last updated: October 04, 2025*
 - **Total Incidents**: 5772
 - **Incidents in 2025**: 329
 - **Most recent incident**: September 30, 2025 in Nashville, Tennessee
