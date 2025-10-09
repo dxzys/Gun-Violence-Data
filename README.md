@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 08, 2025*
-- **Total Incidents**: 5776
-- **Incidents in 2025**: 333
-- **Most recent incident**: October 4, 2025 in Mobile, Alabama
+>*Last updated: October 09, 2025*
+- **Total Incidents**: 5778
+- **Incidents in 2025**: 335
+- **Most recent incident**: October 8, 2025 in Saint Louis, Missouri
   - Casualties: 1 killed, 4 injured
 
 # Framework
