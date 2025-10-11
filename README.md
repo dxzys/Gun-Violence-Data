@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 10, 2025*
+>*Last updated: October 11, 2025*
 - **Total Incidents**: 5779
 - **Incidents in 2025**: 336
 - **Most recent incident**: October 5, 2025 in Fort Worth, Texas
