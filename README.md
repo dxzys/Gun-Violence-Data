@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 17, 2025*
-- **Total Incidents**: 5788
-- **Incidents in 2025**: 345
-- **Most recent incident**: October 12, 2025 in Wichita, Kansas
+>*Last updated: October 18, 2025*
+- **Total Incidents**: 5790
+- **Incidents in 2025**: 347
+- **Most recent incident**: October 17, 2025 in Oklahoma City, Oklahoma
   - Casualties: 0 killed, 4 injured
 
 # Framework
