@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 20, 2025*
-- **Total Incidents**: 5794
-- **Incidents in 2025**: 351
-- **Most recent incident**: October 18, 2025 in Dallas, Texas
+>*Last updated: October 21, 2025*
+- **Total Incidents**: 5795
+- **Incidents in 2025**: 352
+- **Most recent incident**: October 20, 2025 in Buena Park, California
   - Casualties: 0 killed, 4 injured
 
 # Framework
