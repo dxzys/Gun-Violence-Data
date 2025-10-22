@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 21, 2025*
-- **Total Incidents**: 5795
-- **Incidents in 2025**: 352
-- **Most recent incident**: October 20, 2025 in Buena Park, California
+>*Last updated: October 22, 2025*
+- **Total Incidents**: 5797
+- **Incidents in 2025**: 354
+- **Most recent incident**: October 19, 2025 in Pinson, Alabama
   - Casualties: 0 killed, 4 injured
 
 # Framework
