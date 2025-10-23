@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 22, 2025*
-- **Total Incidents**: 5797
-- **Incidents in 2025**: 354
-- **Most recent incident**: October 19, 2025 in Pinson, Alabama
+>*Last updated: October 23, 2025*
+- **Total Incidents**: 5798
+- **Incidents in 2025**: 355
+- **Most recent incident**: October 20, 2025 in Dover, Delaware
   - Casualties: 0 killed, 4 injured
 
 # Framework
