@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: November 01, 2025*
-- **Total Incidents**: 5804
-- **Incidents in 2025**: 361
-- **Most recent incident**: October 31, 2025 in Snoqualmie, Washington
+>*Last updated: November 02, 2025*
+- **Total Incidents**: 5806
+- **Incidents in 2025**: 363
+- **Most recent incident**: November 1, 2025 in New Haven, Connecticut
   - Casualties: 1 killed, 3 injured
 
 # Framework
