@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: November 21, 2025*
+>*Last updated: November 22, 2025*
 - **Total Incidents**: 5823
 - **Incidents in 2025**: 380
 - **Most recent incident**: November 15, 2025 in Mantee, Mississippi
