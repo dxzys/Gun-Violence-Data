@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: November 26, 2025*
-- **Total Incidents**: 5827
-- **Incidents in 2025**: 384
-- **Most recent incident**: November 23, 2025 in Union City, Tennessee
+>*Last updated: November 27, 2025*
+- **Total Incidents**: 5828
+- **Incidents in 2025**: 385
+- **Most recent incident**: November 24, 2025 in Dallas, Texas
   - Casualties: 1 killed, 3 injured
 
 # Framework
