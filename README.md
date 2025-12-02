@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: December 01, 2025*
+>*Last updated: December 02, 2025*
 - **Total Incidents**: 5829
 - **Incidents in 2025**: 386
 - **Most recent incident**: November 29, 2025 in Stockton, California
