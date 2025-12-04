@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: December 03, 2025*
+>*Last updated: December 04, 2025*
 - **Total Incidents**: 5830
 - **Incidents in 2025**: 387
 - **Most recent incident**: December 1, 2025 in Saint Paul, Minnesota
