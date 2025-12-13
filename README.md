@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: December 12, 2025*
+>*Last updated: December 13, 2025*
 - **Total Incidents**: 5838
 - **Incidents in 2025**: 395
 - **Most recent incident**: December 10, 2025 in Newark, New Jersey
