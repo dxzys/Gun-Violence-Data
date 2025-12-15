@@ -4,11 +4,11 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: December 14, 2025*
-- **Total Incidents**: 5839
-- **Incidents in 2025**: 396
-- **Most recent incident**: December 13, 2025 in Providence, Rhode Island
-  - Casualties: 2 killed, 8 injured
+>*Last updated: December 15, 2025*
+- **Total Incidents**: 5841
+- **Incidents in 2025**: 398
+- **Most recent incident**: December 14, 2025 in Greenville, North Carolina
+  - Casualties: 0 killed, 4 injured
 
 # Framework
 The Gun Violence Archive (GVA) provides public [reports](https://www.gunviolencearchive.org/reports) of gun violence incidents in the U.S. (most notably mass shootings) that are downloadable in `.csv` format. Mass shootings (defined by GVA as incidents where 4+ people are shot, excluding the perpetrator) unfortunately happen far too often in the United States and are reported both in general *(Mass Shootings - All Years)* and by year *(Mass Shootings in 20xx)* as a result.
