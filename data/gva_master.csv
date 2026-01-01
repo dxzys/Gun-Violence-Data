@@ -1,4 +1,18 @@
 Incident ID,Incident Date,State,City Or County,Address,Victims Killed,Victims Injured,Suspects Killed,Suspects Injured,Suspects Arrested,Operations,latitude,longitude
+3386476,"December 30, 2025",California,Los Angeles (Commerce),4700 block of Telegraph Rd,1,3,0,0,0,N/A,34.000403,-118.1596826
+3384449,"December 28, 2025",Florida,Fort Lauderdale,217 SW 2nd St,0,5,0,0,0,N/A,26.1241631,-80.1435862
+3384390,"December 28, 2025",Arizona,Phoenix,W Washington St and N 1st Ave,0,4,0,0,1,N/A,33.448204,-112.0725848
+3384354,"December 28, 2025",Illinois,Chicago,400 block of N LaSalle Dr,1,3,0,0,0,N/A,41.883229,-87.632398
+3384784,"December 27, 2025",Texas,El Paso (Socorro),10100 Cyan Vly,1,3,0,0,0,N/A,31.635746,-106.274372
+3383858,"December 26, 2025",District of Columbia,Washington,1245 5th St NW,0,5,0,0,0,N/A,38.8920621,-77.0199124
+3383349,"December 26, 2025",California,San Jose,842 S First St,1,3,0,0,0,N/A,37.3347943,-121.8881448
+3383073,"December 25, 2025",California,Lancaster,E Angela Ct and 11th St E,1,4,0,0,0,N/A,34.6974724,-118.1445207
+3382466,"December 24, 2025",Illinois,Chicago,7059 S Halsted St,1,3,0,0,0,N/A,41.883229,-87.632398
+3382818,"December 24, 2025",Mississippi,Greenwood,308 E Market St,2,2,0,0,0,N/A,33.521468,-90.192849
+3384434,"December 24, 2025",Alabama,Jacksonville,720 Lynn Dr SE,0,4,0,0,0,N/A,33.816553,-85.761223
+3382812,"December 24, 2025",Colorado,Aurora,1800 Billings St,2,3,0,0,0,N/A,39.7129336,-104.8195761
+3382473,"December 23, 2025",Georgia,Albany,1700 block of W Broad Ave,1,4,0,0,0,N/A,31.57846,-84.155875
+3381708,"December 20, 2025",California,Oakland,MacArthur Blvd and 72nd Ave,0,4,0,0,2,N/A,37.804828,-122.27248
 3379775,"December 20, 2025",Florida,Jacksonville,1200 block of Arlingwood Ave,0,5,0,0,0,N/A,30.325968,-81.65676
 3376484,"December 15, 2025",Maryland,Baltimore,Mayfield Ave and Belair Rd,1,4,0,0,0,N/A,39.290443,-76.612333
 3375757,"December 14, 2025",Ohio,Cleveland,3547 E 93rd St,1,3,0,0,0,N/A,41.5051414,-81.6914575
@@ -5843,3 +5857,4 @@ Incident ID,Incident Date,State,City Or County,Address,Victims Killed,Victims In
 478948,"January 7, 2013",Oklahoma,Tulsa,6000 block of South Owasso,4,0,0,0,2,N/A,36.241675389109,-95.976765170347
 461105,"January 1, 2013",Pennsylvania,Mckeesport,Versailles Ave and Coursin St,0,4,0,0,1,N/A,40.346725201396,-79.855876490407
 460726,"January 1, 2013",California,Hawthorne,13500 block of Cerise Avenue,1,3,0,0,0,N/A,33.90834209298,-118.333016551343
+
