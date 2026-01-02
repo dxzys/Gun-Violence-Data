@@ -1,4 +1,5 @@
 Incident ID,Incident Date,State,City Or County,Address,Victims Killed,Victims Injured,Suspects Killed,Suspects Injured,Suspects Arrested,Operations,latitude,longitude
+3386935,"January 1, 2026",Texas,Houston,Live Oak St and Elgin St,0,5,0,0,0,N/A,29.7608026,-95.3695062
 3386476,"December 30, 2025",California,Los Angeles (Commerce),4700 block of Telegraph Rd,1,3,0,0,0,N/A,34.000403,-118.1596826
 3384449,"December 28, 2025",Florida,Fort Lauderdale,217 SW 2nd St,0,5,0,0,0,N/A,26.1241631,-80.1435862
 3384390,"December 28, 2025",Arizona,Phoenix,W Washington St and N 1st Ave,0,4,0,0,1,N/A,33.448204,-112.0725848
@@ -5857,4 +5858,3 @@ Incident ID,Incident Date,State,City Or County,Address,Victims Killed,Victims In
 478948,"January 7, 2013",Oklahoma,Tulsa,6000 block of South Owasso,4,0,0,0,2,N/A,36.241675389109,-95.976765170347
 461105,"January 1, 2013",Pennsylvania,Mckeesport,Versailles Ave and Coursin St,0,4,0,0,1,N/A,40.346725201396,-79.855876490407
 460726,"January 1, 2013",California,Hawthorne,13500 block of Cerise Avenue,1,3,0,0,0,N/A,33.90834209298,-118.333016551343
-
