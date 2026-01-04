@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: January 03, 2026*
+>*Last updated: January 04, 2026*
 - **Total Incidents**: 5861
 - **Incidents in 2026**: 3
 - **Most recent incident**: January 1, 2026 in Jackson, Mississippi
