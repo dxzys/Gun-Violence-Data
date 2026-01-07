@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: January 06, 2026*
+>*Last updated: January 07, 2026*
 - **Total Incidents**: 5865
 - **Incidents in 2026**: 7
 - **Most recent incident**: January 4, 2026 in Talbott, Tennessee
