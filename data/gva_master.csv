@@ -1,4 +1,193 @@
 Incident ID,Incident Date,State,City Or County,Address,Victims Killed,Victims Injured,Suspects Killed,Suspects Injured,Suspects Arrested,Operations,latitude,longitude
+3494556,"June 23, 2026",Florida,Royal Palm Beach,4600 block of Coconut Blvd,1,3,0,0,1,N/A,26.7017653,-80.2294412
+3493033,"June 21, 2026",Pennsylvania,Philadelphia,3246 N 5th St,2,2,0,0,0,N/A,39.9510605,-75.1656204
+3492681,"June 21, 2026",Virginia,Petersburg,29 Bollingbrook St,0,5,0,0,0,N/A,37.205498,-77.387642
+3492816,"June 21, 2026",New York,New York (Manhattan),143rd St and S Lenox Ave,0,4,0,0,0,N/A,40.7532511,-74.0038099
+3492768,"June 21, 2026",Texas,Dallas,1400 block of Glen Ave,0,5,0,0,0,N/A,32.7779765,-96.7962148
+3492220,"June 20, 2026",Maryland,Hanover,1300 block of Charwood Rd,0,6,0,0,0,N/A,39.1636844,-76.7085836
+3492687,"June 20, 2026",Alabama,Montgomery,1323 Eastern Blvd,2,2,0,0,0,N/A,32.376542,-86.2996608
+3492182,"June 19, 2026",Wisconsin,Milwaukee,420 E Capitol Dr,0,4,0,0,0,N/A,43.041072,-87.909421
+3492260,"June 19, 2026",Missouri,Kansas City,Vine St and E 19th St,1,5,0,0,0,N/A,39.099792,-94.578559
+3492146,"June 19, 2026",Missouri,Kansas City,E 19th St and Paseo,1,5,0,0,0,N/A,39.099792,-94.578559
+3492056,"June 19, 2026",Illinois,Chicago,200 block of W 95th St,0,13,0,0,0,N/A,41.883229,-87.632398
+3491199,"June 17, 2026",Texas,Amarillo,5900 Plum Creek Dr,0,4,0,2,1,N/A,35.207009,-101.832013
+3491062,"June 17, 2026",Louisiana,Baton Rouge,2121 Lobdell Blvd,0,5,0,0,0,N/A,30.443319,-91.187488
+3489381,"June 15, 2026",Georgia,Lithonia,2000 block of Mallard Crest,0,5,0,0,0,N/A,33.712085,-84.105776
+3488224,"June 14, 2026",South Carolina,Columbia,1004 Zimalcrest Dr,1,5,0,0,1,N/A,34.009286,-81.037094
+3488243,"June 14, 2026",Mississippi,Lexington,71 Leawood Ln,0,4,0,0,0,N/A,33.112276,-90.052831
+3488126,"June 13, 2026",Florida,Jacksonville,9000 block of Norfolk Blvd,0,4,0,0,0,N/A,30.325968,-81.65676
+3488509,"June 13, 2026",Texas,Crockett,1100 block of Martin Luther King Jr Blvd,0,4,0,0,0,N/A,31.318387,-95.457047
+3486911,"June 12, 2026",Texas,Midland,4100 W Wall St,1,10,1,0,0,N/A,31.997433,-102.078043
+3486288,"June 11, 2026",Ohio,Cleveland,3600 block of Independence Rd,0,5,0,0,0,N/A,41.5051414,-81.6914575
+3485304,"June 9, 2026",Michigan,Livonia,19332 Rensellor Rd,4,0,0,0,1,N/A,42.3950635,-83.3694956
+3485654,"June 9, 2026",New Jersey,Trenton,Centre St and Furman St,0,7,0,0,0,N/A,40.2205724,-74.7597087
+3484446,"June 8, 2026",Illinois,Chicago,50 block of N Lockwood Ave,1,3,0,0,0,N/A,41.883229,-87.632398
+3483688,"June 7, 2026",Ohio,Cleveland,3300 block of E 106th St,0,5,0,0,0,N/A,41.5051414,-81.6914575
+3483162,"June 6, 2026",Illinois,Chicago,4500 block of S Prairie Ave,0,4,0,0,1,N/A,41.883229,-87.632398
+3482784,"June 6, 2026",Mississippi,Jackson,2900 Forest Ave NW,1,5,0,0,1,N/A,32.302897,-90.183488
+3483307,"June 6, 2026",Texas,Fort Worth,5200 E Rosedale St,0,4,0,0,0,N/A,32.749904,-97.330339
+3482806,"June 6, 2026",Ohio,Toledo,Glenwood Ave and W Delaware Ave,0,12,0,0,2,N/A,41.655298,-83.535717
+3482633,"June 6, 2026",Arizona,Phoenix,6114 N 27th Ave,0,4,0,0,0,N/A,33.448204,-112.0725848
+3482929,"June 6, 2026",Missouri,Kansas City,7900 block of Troost Ave,0,9,0,0,0,N/A,39.099792,-94.578559
+3481945,"June 5, 2026",Illinois,Chicago,5100 block of S Wood St,2,5,0,0,0,N/A,41.883229,-87.632398
+3481912,"June 4, 2026",Alabama,Birmingham,152 Holley Ave,2,5,0,0,2,N/A,33.5228587,-86.8077052
+3481391,"June 3, 2026",California,Fairfield,205 E Atlantic Ave,1,3,0,0,0,N/A,38.251488,-122.049851
+3479640,"June 1, 2026",New York,Buffalo (Cheektowaga),43 Ellen St,4,0,0,0,1,N/A,42.868424,-78.717068
+3479508,"June 1, 2026",Iowa,Muscatine,210 Park Ave,6,0,1,0,0,N/A,41.4205057,-91.044911
+3479518,"June 1, 2026",Louisiana,Shreveport,900 block of Babylon St,0,4,0,0,0,N/A,32.51425,-93.7477715
+3478841,"May 31, 2026",Oregon,Sandy,39572 Evans St,3,1,0,0,1,N/A,45.396306,-122.25974
+3478619,"May 30, 2026",Virginia,Petersburg,1 Stately Ct,0,5,0,0,0,N/A,37.205498,-77.387642
+3478758,"May 30, 2026",California,Visalia,2744 W Victor Ave,1,3,0,0,0,N/A,36.33012,-119.29888
+3478392,"May 28, 2026",Missouri,Saint Louis (Berkeley),8940 Ramona Lake Dr,1,3,0,0,1,N/A,38.7545,-90.33123
+3475660,"May 26, 2026",Ohio,Cincinnati,4000 block of Hamilton Ave,0,4,0,0,1,N/A,39.12711,-84.51439
+3475315,"May 26, 2026",Texas,Dallas,3700 block of Vilbig Rd,3,1,0,0,1,N/A,32.7779765,-96.7962148
+3474819,"May 25, 2026",Pennsylvania,Philadelphia,500 block of Marwood Rd,0,4,0,0,0,N/A,39.9510605,-75.1656204
+3474718,"May 25, 2026",Missouri,Saint Louis,11800 block of W Florissant Ave,0,6,0,0,0,N/A,38.635355,-90.2009855
+3475869,"May 25, 2026",Illinois,Chicago,4800 block of W Fulton St,0,4,0,0,0,N/A,41.883229,-87.632398
+3474189,"May 24, 2026",Kentucky,Louisville,1740 Berry Blvd,0,5,0,0,0,N/A,38.256078,-85.751569
+3474093,"May 24, 2026",Illinois,Chicago,2500 block of S Washtenaw Ave,0,4,0,0,0,N/A,41.883229,-87.632398
+3474848,"May 24, 2026",Louisiana,Thibodaux,926 Narrow St,0,7,0,0,2,N/A,29.7957479,-90.822457
+3474059,"May 23, 2026",Pennsylvania,Philadelphia,1000 block of Green St,1,4,0,0,0,N/A,39.9510605,-75.1656204
+3470964,"May 18, 2026",Alabama,Mobile,1100 block of ODonnell St,1,4,0,0,4,N/A,30.688943,-88.044822
+3470146,"May 17, 2026",Pennsylvania,Homestead,200 block of W 8th Ave,0,4,0,0,0,N/A,40.406033,-79.912187
+3469531,"May 16, 2026",Georgia,Atlanta,184 Forsyth St,0,4,0,0,0,N/A,33.748547,-84.391502
+3470134,"May 16, 2026",Kansas,Wichita,8800 block of E Denker Cir,0,4,0,0,0,N/A,37.6860234,-97.335571
+3469308,"May 15, 2026",Missouri,Saint Louis,1500 block of Preservation Pl,2,3,0,0,2,N/A,38.635355,-90.2009855
+3467311,"May 12, 2026",Pennsylvania,Philadelphia,1200 block of N 42nd St,0,4,0,0,0,N/A,39.9510605,-75.1656204
+3466171,"May 10, 2026",New Jersey,Paterson,230 Rosa Parks Blvd,2,5,0,0,0,N/A,40.9166123,-74.1721908
+3465754,"May 9, 2026",Michigan,Muskegon,5201 Airline Hwy,0,4,0,0,0,N/A,43.2342259,-86.2465608
+3465878,"May 9, 2026",Michigan,Jackson,300 block of W Biddle St,0,4,0,0,1,N/A,42.247454,-84.408847
+3465444,"May 9, 2026",Louisiana,Lake Charles,1700 block of Rena St,0,4,0,0,0,N/A,30.2292887,-93.2171107
+3465541,"May 9, 2026",Florida,Reddick,15000 block of NW 44th Ave Rd,0,5,0,0,0,N/A,29.366903,-82.197501
+3464771,"May 8, 2026",Tennessee,Brownsville,985 Key Corner St,1,6,0,0,1,N/A,35.594886,-89.264004
+3464059,"May 7, 2026",Ohio,Cleveland,3800 block of Martin Luther King Jr Dr,0,4,0,0,0,N/A,41.5051414,-81.6914575
+3462850,"May 6, 2026",Texas,Pflugerville,15424 FM1825,1,4,0,0,0,N/A,30.439923,-97.620959
+3463266,"May 5, 2026",Texas,Dallas,Main St and N Malcolm X Blvd,0,5,0,0,0,N/A,32.7779765,-96.7962148
+3462328,"May 5, 2026",Texas,Carrollton,State Hwy 121 and W Hebron Pkwy,2,3,0,0,2,N/A,32.975541,-96.889788
+3467669,"May 5, 2026",Louisiana,Monroe (Richwood),Winnsboro Road and S Pryce St,1,3,0,1,1,N/A,32.456935296263,-92.087799355981
+3462799,"May 4, 2026",Tennessee,Memphis,2635 Carnes Ave,0,7,0,0,0,N/A,35.1433781,-90.0521356
+3461452,"May 3, 2026",Oklahoma,Edmond,7200 E 15th St,1,22,0,0,5,N/A,35.65314,-97.481511
+3461719,"May 3, 2026",California,Bakersfield,100 block of E Pacheco Rd,1,3,0,0,0,N/A,35.373405,-119.018911
+3461624,"May 3, 2026",Georgia,Valdosta,3661 Madison Hwy,1,3,0,0,1,N/A,30.8307537,-83.2788265
+3461728,"May 3, 2026",Florida,Plant City,911 N Burton St,4,0,0,0,0,N/A,27.998304,-82.12042
+3460594,"May 2, 2026",Texas,Amarillo,2415 S Coulter St,2,10,0,0,3,N/A,35.207009,-101.832013
+3460576,"May 1, 2026",Minnesota,Minneapolis,4055 Nicollet Ave,0,4,0,0,0,N/A,44.9774859,-93.2643669
+3458708,"April 28, 2026",Georgia,Albany,1000 block of S Cleveland St,1,4,0,0,0,N/A,31.57846,-84.155875
+3457361,"April 27, 2026",Maryland,Columbia,6700 block of Alexander Bell Dr,1,7,0,0,0,N/A,39.217524,-76.868726
+3456914,"April 26, 2026",New York,Corona (Queens),79-51 Albion Ave,0,4,0,0,0,N/A,40.746385,-73.859909
+3456892,"April 26, 2026",Indiana,Bloomington,400 block of Kirkwood Ave,0,5,0,0,1,N/A,39.166587,-86.534893
+3457354,"April 26, 2026",Texas,Austin,2000 E 12th St,0,6,0,1,2,N/A,30.264979,-97.746598
+3457222,"April 26, 2026",Pennsylvania,Vandergrift,1024 1st St,1,3,0,0,1,N/A,40.6026161,-79.5657736
+3455298,"April 23, 2026",Louisiana,Baton Rouge,6401 Bluebonnet Blvd,1,5,0,0,1,N/A,30.443319,-91.187488
+3456154,"April 23, 2026",Michigan,Lansing,W Hillsdale St and S Chestnut St,0,6,0,0,0,N/A,42.733625,-84.553927
+3455541,"April 22, 2026",North Carolina,Zebulon,W Barbee St and Mack Todd Rd,1,4,0,0,0,N/A,35.8221662,-78.3132256
+3454706,"April 22, 2026",Illinois,Chicago,W 26th St and S St Louis Ave,1,3,0,0,0,N/A,41.883229,-87.632398
+3452948,"April 20, 2026",North Carolina,Winston Salem (Winston-salem),3635 Sally Kirk Rd,1,4,1,1,1,N/A,36.096261,-80.243735
+3453464,"April 20, 2026",Alaska,Anchorage,500 block of Saint Lazaria Cir,0,5,0,0,0,N/A,61.216583,-149.899597
+3452000,"April 19, 2026",Iowa,Iowa City,100 block of E College St,0,5,0,0,2,N/A,41.6612397,-91.5301283
+3453015,"April 19, 2026",Virginia,Temperanceville,9480 Lankford Hwy,1,3,0,1,2,N/A,37.890905,-75.545824
+3452118,"April 19, 2026",Louisiana,Shreveport,355 W 79th St,8,2,1,0,0,N/A,32.51425,-93.7477715
+3453804,"April 18, 2026",Mississippi,Union Church,Meadville Rd,0,5,0,0,1,N/A,31.683022,-90.787962
+3451921,"April 18, 2026",California,Sacramento,2000 Howe Ave,0,4,0,0,3,N/A,38.5769347,-121.4949523
+3452058,"April 18, 2026",Virginia,Danville,700 block of Arlington Rd,1,4,0,0,2,N/A,36.586168,-79.3952367
+3451726,"April 18, 2026",Arizona,Tolleson,2909 S 95th Ln,0,5,0,0,0,N/A,33.450381,-112.255188
+3452043,"April 18, 2026",New Jersey,Paterson,E 29th St and 10th Ave,1,3,0,0,0,N/A,40.9166123,-74.1721908
+3451743,"April 18, 2026",Arizona,Litchfield Park,13336 W Stella Ln,0,4,0,0,0,N/A,33.493298,-112.359484
+3451234,"April 17, 2026",Illinois,Chicago,4017 W Maypole Ave,3,1,0,0,0,N/A,41.883229,-87.632398
+3449700,"April 14, 2026",Missouri,Saint Louis,3016 Dr Martin Luther King Dr,1,3,0,0,0,N/A,38.635355,-90.2009855
+3447486,"April 12, 2026",California,Rosemead,Del Mar Ave and Garvey Ave,0,4,0,0,0,N/A,34.080676,-118.077638
+3447534,"April 11, 2026",Mississippi,Belzoni,310 Silver City Rd,1,4,0,0,4,N/A,33.177675,-90.489015
+3447256,"April 11, 2026",New Jersey,Union,2319 US-22,1,6,0,0,2,N/A,40.625016,-74.962315
+3448047,"April 11, 2026",Indiana,Fort Wayne,3200 block of Abbott St,1,4,0,0,2,N/A,41.077474,-85.137495
+3447590,"April 11, 2026",Virginia,Virginia Beach,1400 block of Atlantic Ave,0,7,0,1,3,N/A,36.8451268,-75.9754369
+3447705,"April 11, 2026",Texas,Fort Worth,5200 block of Shackleford St,1,4,0,0,1,N/A,32.749904,-97.330339
+3444305,"April 6, 2026",Mississippi,Monticello,229 F E Sellers Hwy,0,4,0,0,2,N/A,31.552167,-90.105238
+3443402,"April 5, 2026",Georgia,Ocilla,E 10th St and N McKinley St,1,3,0,0,1,N/A,31.5942342,-83.2509144
+3443936,"April 5, 2026",Georgia,Atlanta,984 Sparks St SW,0,4,0,0,0,N/A,33.748547,-84.391502
+3442698,"April 3, 2026",Idaho,Pocatello (Chubbuck),Batiste Rd and Tank Farm Rd,2,3,1,0,0,N/A,42.921369,-112.496685
+3441950,"April 1, 2026",California,Los Angeles,4700 block of S Broadway,0,4,0,0,0,N/A,34.052238,-118.243344
+3440883,"March 31, 2026",Louisiana,Winnfield,1714 Orange St,0,4,0,0,0,N/A,31.924071,-92.639657
+3440032,"March 30, 2026",Pennsylvania,Philadelphia,S 60th St and Delancey St,2,3,0,0,1,N/A,39.9510605,-75.1656204
+3439441,"March 29, 2026",Idaho,Meridian,E Pine Ave and E Reem Dr,0,4,0,0,2,N/A,43.610115,-116.391569
+3439066,"March 29, 2026",Florida,Tallahassee,500 block of W Osceola St,0,4,0,0,0,N/A,30.440741,-84.278328
+3439025,"March 29, 2026",Texas,Dickinson,2403 24th St,0,7,0,0,1,N/A,29.460726,-95.051812
+3439992,"March 29, 2026",Arkansas,Little Rock,1400 145th St,0,4,0,0,0,N/A,34.748745,-92.275105
+3439044,"March 28, 2026",Texas,Houston,7300 block of Parkes St,0,6,0,0,0,N/A,29.7608026,-95.3695062
+3438470,"March 26, 2026",Pennsylvania,Philadelphia,400 block of N 59th St,0,4,0,0,0,N/A,39.9510605,-75.1656204
+3437641,"March 25, 2026",California,Sacramento,3328 9th Ave,0,4,0,0,4,N/A,38.5769347,-121.4949523
+3436155,"March 24, 2026",Delaware,Wilmington,836 W 7th St,3,1,0,0,0,N/A,39.7444318,-75.5451003
+3435445,"March 23, 2026",Virginia,Virginia Beach,1255 Fordham Dr,0,7,0,0,0,N/A,36.8451268,-75.9754369
+3435834,"March 23, 2026",South Carolina,Dillon,S 9th Ave,2,2,0,0,3,N/A,34.4222091,-79.3702772
+3434944,"March 22, 2026",Pennsylvania,Harrisburg (Steelton),9 N Front St,1,3,0,0,0,N/A,40.239050776124,-76.840078511675
+3435007,"March 22, 2026",Texas,Tyler,11840 State Hwy 64,2,2,0,0,2,N/A,32.350763,-95.300644
+3434941,"March 22, 2026",North Carolina,Greensboro,100 block of E Lewis St,0,4,0,0,0,N/A,36.072701,-79.793899
+3434970,"March 22, 2026",North Carolina,Charlotte,5923 Hucks Rd,1,4,0,0,1,N/A,35.2237867,-80.8411413
+3434542,"March 22, 2026",Illinois,Normal,700 block of Franklin Ave,0,6,0,0,0,N/A,40.518091,-88.995074
+3434809,"March 22, 2026",Texas,Amarillo,2906 S Dallas St,2,4,0,0,1,N/A,35.207009,-101.832013
+3434705,"March 22, 2026",New Mexico,Albuquerque,Blake Rd SW and Coors Blvd SW,1,4,0,0,0,N/A,35.084248,-106.649241
+3434814,"March 22, 2026",Texas,Amarillo,1901 NW 14th Ave,4,4,1,0,0,N/A,35.207009,-101.832013
+3434503,"March 22, 2026",Georgia,Midway,400 block of Bill Carter Rd,0,4,0,0,0,N/A,31.8053818,-81.43072
+3434390,"March 22, 2026",New Mexico,Clovis,621 W Grand Ave,2,4,0,0,2,N/A,34.412026,-103.195241
+3434487,"March 21, 2026",Wisconsin,Milwaukee,N 37th St and W Kiley Ave,1,4,0,0,1,N/A,43.041072,-87.909421
+3434102,"March 21, 2026",Oklahoma,Lawton,6425 Cache Rd,1,3,0,0,2,N/A,34.606431,-98.3969283
+3434591,"March 21, 2026",Missouri,Saint Louis,1438 N 13th St,1,3,1,0,1,N/A,38.635355,-90.2009855
+3434005,"March 20, 2026",Minnesota,Minneapolis,310 W Lake St,0,4,0,0,0,N/A,44.9774859,-93.2643669
+3431439,"March 16, 2026",Florida,Palm Beach Gardens (Riviera Beach),1555 Martin Luther King Jr Blvd,2,3,0,0,1,N/A,26.831245,-80.08522
+3430621,"March 14, 2026",Minnesota,Minneapolis,3000 block of Russell Ave N,0,4,0,0,0,N/A,44.9774859,-93.2643669
+3430366,"March 14, 2026",Texas,Port Aransas,Port Aransas Beach Rd,0,5,0,0,1,N/A,27.832467,-97.063204
+3427034,"March 9, 2026",Virginia,Dumfries,1801 Potomac Shores Pkwy,1,3,0,1,4,N/A,38.566532,-77.328745
+3427146,"March 8, 2026",North Carolina,Asheville,100 block of N Lexington Ave,0,7,0,0,2,N/A,35.5959111,-82.5500442
+3425943,"March 8, 2026",New York,Brooklyn,9404 Ave L,0,4,0,0,0,N/A,40.692529,-73.990996
+3425956,"March 7, 2026",Virginia,Virginia Beach,1800 block of Atlantic Ave,0,6,0,0,4,N/A,36.8451268,-75.9754369
+3425537,"March 7, 2026",California,Oakland,412 14th St,2,5,0,0,1,N/A,37.804828,-122.27248
+3426698,"March 7, 2026",Arkansas,Osceola,4635 W Keiser Ave,1,3,0,0,7,N/A,35.7049312,-89.970063
+3425965,"March 6, 2026",Alabama,Selma,1200 block of Alabama Ave,0,6,0,0,1,N/A,32.4312167,-87.032392
+3425252,"March 5, 2026",Florida,Apopka,200 block of W 12th St,1,3,0,0,0,N/A,28.677975,-81.511499
+3421673,"March 1, 2026",Ohio,Cincinnati,4343 Kellogg Ave,0,9,0,1,2,N/A,39.12711,-84.51439
+3421705,"March 1, 2026",Texas,Austin,700 W 6th St,3,15,1,0,0,N/A,30.264979,-97.746598
+3422318,"March 1, 2026",Iowa,Marshalltown,100 block of N 11th Ave,1,3,0,0,1,N/A,42.036384,-92.912728
+3422185,"February 28, 2026",Texas,Edinburg,10500 block of Hwy 107,4,2,0,0,0,N/A,26.299359,-98.162704
+3421632,"February 28, 2026",California,Palm Springs,19345 N Indian Canyon Dr,2,3,0,0,0,N/A,33.8303019,-116.5468433
+3423765,"February 28, 2026",California,Anaheim,2000 block of S Sprague Ln,0,4,0,0,4,N/A,33.834492,-117.915638
+3421202,"February 27, 2026",Michigan,Detroit,19486 Sherwood St,2,2,0,0,0,N/A,42.3329407,-83.0478365
+3418607,"February 23, 2026",Missouri,Highlandville,US 160 and Reeds Spring,2,2,1,0,0,N/A,36.937506,-93.284259
+3417656,"February 22, 2026",Florida,Jacksonville,Jessie St and A Philip Randolph Blvd,0,4,0,0,0,N/A,30.325968,-81.65676
+3417505,"February 21, 2026",Missouri,Kansas City,4900 block of College Ave,2,4,0,0,0,N/A,39.099792,-94.578559
+3417663,"February 21, 2026",Florida,Jacksonville,Beach Blvd and 3rd St,0,5,0,0,0,N/A,30.325968,-81.65676
+3417012,"February 21, 2026",Virginia,Richmond,100 block of N 18th St,2,7,0,0,3,N/A,37.540759,-77.433932
+3416638,"February 19, 2026",Michigan,Flint,5400 block of Edwards Ave,0,4,0,0,0,N/A,43.00992,-83.685109
+3416087,"February 18, 2026",Georgia,Atlanta,903 Peachtree St NE,0,4,0,0,0,N/A,33.748547,-84.391502
+3413578,"February 16, 2026",Rhode Island,Pawtucket,25 Andrew D. Ferland Way,3,2,1,0,0,N/A,41.8799,-71.382408
+3413033,"February 15, 2026",Ohio,Cincinnati,4023 Hamilton Ave,2,2,0,0,0,N/A,39.12711,-84.51439
+3413558,"February 15, 2026",North Carolina,Charlotte,10000 block of Battle Ct,0,4,0,0,0,N/A,35.2237867,-80.8411413
+3412880,"February 15, 2026",Missouri,Kansas City,2801 Southwest Blvd,2,2,0,0,1,N/A,39.099792,-94.578559
+3414194,"February 15, 2026",Louisiana,New Orleans,13500 block of Granville St,1,3,0,0,0,N/A,29.9517634,-90.0746168
+3413331,"February 15, 2026",Alabama,Mobile,Dauphin St and S Joachim St,0,5,0,2,2,N/A,30.688943,-88.044822
+3413484,"February 15, 2026",Florida,Orlando,436 S Parramore Ave,0,4,0,0,1,N/A,28.538331,-81.378879
+3410956,"February 12, 2026",Louisiana,Hammond,43542 Willow Villa Rd,1,3,0,1,1,N/A,30.5037016,-90.4582931
+3409889,"February 10, 2026",Florida,Sarasota,4822 Fallcrest Cir,6,0,1,0,0,N/A,27.336517,-82.5385652
+3408878,"February 8, 2026",California,San Jose,N Market St and W Santa Clara St,0,6,0,0,1,N/A,37.3347943,-121.8881448
+3408435,"February 8, 2026",Florida,Jacksonville,750 Edgewood Ave,0,4,0,0,0,N/A,30.325968,-81.65676
+3409150,"February 7, 2026",Texas,Plainview,2700 block of Upchurch St,4,0,1,0,0,N/A,34.192454,-101.723218
+3407028,"February 4, 2026",Florida,Jacksonville,Begonia Rd and Wisteria St,0,4,0,0,1,N/A,30.325968,-81.65676
+3406724,"February 4, 2026",California,Los Angeles,100 block of W 89th St,0,4,0,0,0,N/A,34.052238,-118.243344
+3404760,"February 1, 2026",Indiana,Indianapolis,2700 block of Barrington Ave,2,2,0,0,0,N/A,39.76845,-86.156212
+3404918,"February 1, 2026",Washington,Seattle,515 2nd Ave,1,3,0,0,0,N/A,47.603229,-122.33028
+3405940,"February 1, 2026",North Carolina,Concord,1480 Fairington Dr NW,2,2,0,0,4,N/A,35.408672,-80.579179
+3404749,"January 31, 2026",Texas,Houston,11300 block of Homestead Rd,1,5,0,0,0,N/A,29.7608026,-95.3695062
+3404274,"January 31, 2026",Louisiana,Clinton,12200 block of Saint Helena St,0,5,0,0,5,N/A,30.8657271,-91.0178201
+3403392,"January 29, 2026",North Carolina,Mount Airy,Samurai Ln and Welcome Baptist Church Rd,2,2,0,0,4,N/A,36.4999619,-80.6053907
+3401741,"January 26, 2026",Pennsylvania,Philadelphia,1700 block of N Croskey St,1,3,0,0,0,N/A,39.9510605,-75.1656204
+3401244,"January 24, 2026",Massachusetts,Carver,53 Silva St,2,2,0,0,1,N/A,41.889068,-70.769214
+3400480,"January 23, 2026",Georgia,Lawrenceville,1031 Brook Ivy Ct,4,0,0,0,1,N/A,33.955,-83.988245
+3400103,"January 22, 2026",District of Columbia,Washington,5900 block of 16th St NW,0,5,0,0,1,N/A,38.8920621,-77.0199124
+3398000,"January 18, 2026",Louisiana,Baton Rouge,11674 Florida Blvd,0,4,0,0,0,N/A,30.443319,-91.187488
+3397939,"January 17, 2026",Washington,Seattle,600 block of 8th Ave,1,3,0,0,0,N/A,47.603229,-122.33028
+3396863,"January 16, 2026",Louisiana,New Orleans,2301 Orleans Ave,1,3,0,0,1,N/A,29.9517634,-90.0746168
+3393630,"January 11, 2026",Texas,Slaton,335 E Floyd St,2,2,1,0,0,N/A,33.436789,-101.643801
+3393700,"January 11, 2026",California,Los Angeles,1401 W Manchester Ave,1,4,0,0,0,N/A,34.052238,-118.243344
+3393558,"January 11, 2026",Texas,Newton,500 block of Kerr St,1,3,0,0,3,N/A,30.851041,-93.754975
+3393785,"January 11, 2026",Colorado,Strasburg,96th Ave and Strasburg Rd,1,3,0,0,1,N/A,39.740246,-104.321393
 3393322,"January 11, 2026",Georgia,Austell,3064 Emery Cir,1,3,0,0,0,N/A,33.8131597,-84.6347243
 3392866,"January 10, 2026",Michigan,Sterling Heights,3000 block of 14 Mile Rd,0,3,0,2,2,N/A,42.587564,-83.010978
 3392576,"January 9, 2026",Mississippi,Cedarbluff,123 David Hill Rd,6,0,0,0,1,N/A,33.58669,-88.83264
