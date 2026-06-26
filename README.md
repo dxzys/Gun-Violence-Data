@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: January 12, 2026*
-- **Total Incidents**: 5871
-- **Incidents in 2026**: 13
-- **Most recent incident**: January 11, 2026 in Austell, Georgia
+>*Last updated: June 25, 2026*
+- **Total Incidents**: 6060
+- **Incidents in 2026**: 202
+- **Most recent incident**: June 23, 2026 in Royal Palm Beach, Florida
   - Casualties: 1 killed, 3 injured
 
 # Framework
