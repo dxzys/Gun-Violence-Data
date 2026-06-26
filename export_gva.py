@@ -119,20 +119,25 @@ def export_data(config: ExportConfig, logger: Optional[logging.Logger] = None) -
             logger.warning("Page load timeout, continuing anyway...")
         
         logger.info("Looking for export link...")
-        
-        # Look for export link
-        export_link = None
-        try:
-            export_link = driver.find_element(By.CSS_SELECTOR, "a[href*='export-csv']")
-        except NoSuchElementException:
-            # Try alternative selectors
-            try:
-                export_link = driver.find_element(By.XPATH, "//a[contains(text(), 'Export') or contains(text(), 'export')]")
-            except NoSuchElementException:
-                raise RuntimeError("Could not find export link on page")
-        
+
+        export_token = driver.execute_script("""
+            var links = document.querySelectorAll('a');
+            for (var i = 0; i < links.length; i++) {
+                for (var j = 0; j < links[i].attributes.length; j++) {
+                    var attr = links[i].attributes[j];
+                    if (attr.name.startsWith('data-') && attr.value.length > 50) {
+                        return attr.value;
+                    }
+                }
+            }
+            return null;
+        """)
+
+        if not export_token:
+            raise RuntimeError("Could not find export link on page")
+
         logger.info("Starting export process...")
-        driver.execute_script("arguments[0].click();", export_link)
+        driver.get(f"{BASE}/q7/{export_token}")
         
         logger.info("Waiting for export to complete...")
         
