@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: June 29, 2026*
+>*Last updated: June 30, 2026*
 - **Total Incidents**: 6067
 - **Incidents in 2026**: 209
 - **Most recent incident**: June 28, 2026 in Carson, California
