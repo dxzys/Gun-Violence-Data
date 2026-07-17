@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: July 16, 2026*
+>*Last updated: July 17, 2026*
 - **Total Incidents**: 6109
 - **Incidents in 2026**: 251
 - **Most recent incident**: July 14, 2026 in Louisville, Kentucky
