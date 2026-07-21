@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: July 20, 2026*
-- **Total Incidents**: 6121
-- **Incidents in 2026**: 263
-- **Most recent incident**: July 19, 2026 in Minneapolis, Minnesota
+>*Last updated: July 21, 2026*
+- **Total Incidents**: 6125
+- **Incidents in 2026**: 267
+- **Most recent incident**: July 20, 2026 in Chicago, Illinois
   - Casualties: 0 killed, 4 injured
 
 # Framework
