@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: July 23, 2026*
-- **Total Incidents**: 6126
-- **Incidents in 2026**: 268
-- **Most recent incident**: July 22, 2026 in Dallas, Texas
+>*Last updated: July 24, 2026*
+- **Total Incidents**: 6127
+- **Incidents in 2026**: 269
+- **Most recent incident**: July 22, 2026 in Atlanta, Georgia
   - Casualties: 0 killed, 4 injured
 
 # Framework
