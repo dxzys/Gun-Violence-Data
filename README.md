@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: July 27, 2026*
+>*Last updated: July 28, 2026*
 - **Total Incidents**: 6134
 - **Incidents in 2026**: 276
 - **Most recent incident**: July 26, 2026 in Seattle, Washington
