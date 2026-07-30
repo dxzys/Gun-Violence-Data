@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: July 29, 2026*
+>*Last updated: July 30, 2026*
 - **Total Incidents**: 6136
 - **Incidents in 2026**: 278
 - **Most recent incident**: July 27, 2026 in Jacksonville, Florida
