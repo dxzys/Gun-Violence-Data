@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: August 06, 2026*
+>*Last updated: August 07, 2026*
 - **Total Incidents**: 6153
 - **Incidents in 2026**: 295
 - **Most recent incident**: August 4, 2026 in Pensacola, Florida
