@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: August 08, 2026*
+>*Last updated: August 09, 2026*
 - **Total Incidents**: 6154
 - **Incidents in 2026**: 296
 - **Most recent incident**: August 7, 2026 in Tulsa, Oklahoma
