@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: August 12, 2026*
+>*Last updated: August 14, 2026*
 - **Total Incidents**: 6160
 - **Incidents in 2026**: 302
 - **Most recent incident**: August 11, 2026 in Winfield, Kansas
