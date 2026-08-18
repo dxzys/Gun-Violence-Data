@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: August 17, 2026*
+>*Last updated: August 18, 2026*
 - **Total Incidents**: 6171
 - **Incidents in 2026**: 313
 - **Most recent incident**: August 16, 2026 in Hartford, Connecticut
