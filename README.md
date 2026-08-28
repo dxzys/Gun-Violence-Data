@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: August 27, 2026*
+>*Last updated: August 28, 2026*
 - **Total Incidents**: 6181
 - **Incidents in 2026**: 323
 - **Most recent incident**: August 23, 2026 in Billings, Montana
