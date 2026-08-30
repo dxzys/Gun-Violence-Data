@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: August 29, 2026*
-- **Total Incidents**: 6183
-- **Incidents in 2026**: 325
-- **Most recent incident**: August 28, 2026 in Washington, District of Columbia
+>*Last updated: August 30, 2026*
+- **Total Incidents**: 6184
+- **Incidents in 2026**: 326
+- **Most recent incident**: August 29, 2026 in Magee, Mississippi
   - Casualties: 1 killed, 3 injured
 
 # Framework
