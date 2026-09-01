@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: August 31, 2026*
+>*Last updated: September 01, 2026*
 - **Total Incidents**: 6188
 - **Incidents in 2026**: 330
 - **Most recent incident**: August 30, 2026 in Trenton, New Jersey
