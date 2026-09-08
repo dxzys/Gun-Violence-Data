@@ -4,11 +4,11 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: September 06, 2026*
-- **Total Incidents**: 6191
-- **Incidents in 2026**: 333
-- **Most recent incident**: September 2, 2026 in Minneapolis, Minnesota
-  - Casualties: 2 killed, 4 injured
+>*Last updated: September 08, 2026*
+- **Total Incidents**: 6194
+- **Incidents in 2026**: 336
+- **Most recent incident**: September 6, 2026 in Sacramento, California
+  - Casualties: 0 killed, 4 injured
 
 # Framework
 The Gun Violence Archive (GVA) provides public [reports](https://www.gunviolencearchive.org/reports) of gun violence incidents in the U.S. (most notably mass shootings) that are downloadable in `.csv` format. Mass shootings (defined by GVA as incidents where 4+ people are shot, excluding the perpetrator) unfortunately happen far too often in the United States and are reported both in general *(Mass Shootings - All Years)* and by year *(Mass Shootings in 20xx)* as a result.
