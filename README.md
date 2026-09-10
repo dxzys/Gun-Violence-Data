@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: September 09, 2026*
+>*Last updated: September 10, 2026*
 - **Total Incidents**: 6194
 - **Incidents in 2026**: 336
 - **Most recent incident**: September 6, 2026 in Sacramento, California
