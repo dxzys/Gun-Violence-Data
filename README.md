@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: September 11, 2026*
+>*Last updated: September 12, 2026*
 - **Total Incidents**: 6195
 - **Incidents in 2026**: 337
 - **Most recent incident**: September 10, 2026 in Gastonia, North Carolina
