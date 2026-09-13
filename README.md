@@ -4,11 +4,11 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: September 12, 2026*
-- **Total Incidents**: 6195
-- **Incidents in 2026**: 337
-- **Most recent incident**: September 10, 2026 in Gastonia, North Carolina
-  - Casualties: 2 killed, 2 injured
+>*Last updated: September 13, 2026*
+- **Total Incidents**: 6198
+- **Incidents in 2026**: 340
+- **Most recent incident**: September 12, 2026 in Dallas, Texas
+  - Casualties: 0 killed, 6 injured
 
 # Framework
 The Gun Violence Archive (GVA) provides public [reports](https://www.gunviolencearchive.org/reports) of gun violence incidents in the U.S. (most notably mass shootings) that are downloadable in `.csv` format. Mass shootings (defined by GVA as incidents where 4+ people are shot, excluding the perpetrator) unfortunately happen far too often in the United States and are reported both in general *(Mass Shootings - All Years)* and by year *(Mass Shootings in 20xx)* as a result.
