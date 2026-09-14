@@ -1,4 +1,9 @@
 Incident ID,Incident Date,State,City Or County,Address,Victims Killed,Victims Injured,Suspects Killed,Suspects Injured,Suspects Arrested,Operations,latitude,longitude
+3546068,"September 13, 2026",Illinois,Chicago,700 block of N Homan Ave,1,6,0,0,0,N/A,41.883229,-87.632398
+3546076,"September 13, 2026",Texas,San Benito,32000 block of County Rd 819,4,0,0,0,1,N/A,26.139001,-97.625383
+3546098,"September 13, 2026",South Carolina,Columbia,2700 block of Decker Blvd,0,8,0,0,0,N/A,34.009286,-81.037094
+3545732,"September 12, 2026",Ohio,Euclid,27200 Shirley Ave,2,2,0,0,0,N/A,41.598791,-81.5268097
+3545811,"September 12, 2026",Alabama,Tuscaloosa,2600 block of 22nd St,0,7,0,0,0,N/A,33.2106838,-87.5655828
 3545458,"September 12, 2026",Texas,Dallas,5900 block of Highland Village Dr,0,6,0,0,0,N/A,32.7779765,-96.7962148
 3545727,"September 12, 2026",Ohio,Euclid,N/A,0,4,0,0,0,N/A,41.598791,-81.5268097
 3545626,"September 11, 2026",Kentucky,Louisville,1000 block of Esquire Alley,0,4,0,0,0,N/A,38.256078,-85.751569
