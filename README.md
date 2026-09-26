@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: September 25, 2026*
-- **Total Incidents**: 6214
-- **Incidents in 2026**: 356
-- **Most recent incident**: September 24, 2026 in Hawthorne, California
+>*Last updated: September 26, 2026*
+- **Total Incidents**: 6215
+- **Incidents in 2026**: 357
+- **Most recent incident**: September 25, 2026 in Rome, Georgia
   - Casualties: 0 killed, 4 injured
 
 # Framework
