@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: September 29, 2026*
+>*Last updated: September 30, 2026*
 - **Total Incidents**: 6224
 - **Incidents in 2026**: 366
 - **Most recent incident**: September 27, 2026 in Columbia, South Carolina
