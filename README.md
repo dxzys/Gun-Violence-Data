@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 06, 2026*
-- **Total Incidents**: 6229
-- **Incidents in 2026**: 371
-- **Most recent incident**: October 3, 2026 in Trenton, New Jersey
+>*Last updated: October 07, 2026*
+- **Total Incidents**: 6231
+- **Incidents in 2026**: 373
+- **Most recent incident**: October 5, 2026 in Portsmouth, Virginia
   - Casualties: 0 killed, 4 injured
 
 # Framework
