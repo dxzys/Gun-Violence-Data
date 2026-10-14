@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 13, 2026*
-- **Total Incidents**: 6237
-- **Incidents in 2026**: 379
-- **Most recent incident**: October 10, 2026 in Detroit, Michigan
+>*Last updated: October 14, 2026*
+- **Total Incidents**: 6238
+- **Incidents in 2026**: 380
+- **Most recent incident**: October 13, 2026 in Kalispell, Montana
   - Casualties: 1 killed, 3 injured
 
 # Framework
