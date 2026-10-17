@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 16, 2026*
-- **Total Incidents**: 6241
-- **Incidents in 2026**: 383
-- **Most recent incident**: October 15, 2026 in Baltimore, Maryland
+>*Last updated: October 17, 2026*
+- **Total Incidents**: 6242
+- **Incidents in 2026**: 384
+- **Most recent incident**: October 15, 2026 in Little Rock, Arkansas
   - Casualties: 2 killed, 3 injured
 
 # Framework
