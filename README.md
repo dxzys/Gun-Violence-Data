@@ -4,10 +4,10 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 24, 2026*
-- **Total Incidents**: 6253
-- **Incidents in 2026**: 395
-- **Most recent incident**: October 17, 2026 in Cleveland, Ohio
+>*Last updated: October 25, 2026*
+- **Total Incidents**: 6254
+- **Incidents in 2026**: 396
+- **Most recent incident**: October 24, 2026 in Memphis, Tennessee
   - Casualties: 0 killed, 5 injured
 
 # Framework
