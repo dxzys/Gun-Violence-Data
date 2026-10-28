@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: October 27, 2026*
+>*Last updated: October 28, 2026*
 - **Total Incidents**: 6259
 - **Incidents in 2026**: 401
 - **Most recent incident**: October 26, 2026 in Elizabeth, New Jersey
