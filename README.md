@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: November 03, 2026*
+>*Last updated: November 04, 2026*
 - **Total Incidents**: 6278
 - **Incidents in 2026**: 420
 - **Most recent incident**: November 2, 2026 in Moss Landing, California
