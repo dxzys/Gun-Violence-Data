@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: November 13, 2026*
+>*Last updated: November 14, 2026*
 - **Total Incidents**: 6285
 - **Incidents in 2026**: 427
 - **Most recent incident**: November 12, 2026 in Washington, District of Columbia
