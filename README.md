@@ -4,7 +4,7 @@ An up-to-date master dataset of all [Gun Violence Archive](https://www.gunviolen
 #### [View map](https://dxzys.github.io/Gun-Violence-Data/map.html)
 
 ## Statistics
->*Last updated: November 25, 2026*
+>*Last updated: November 26, 2026*
 - **Total Incidents**: 6297
 - **Incidents in 2026**: 439
 - **Most recent incident**: November 24, 2026 in Houston, Texas
